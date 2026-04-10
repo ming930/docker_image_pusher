@@ -1,1 +1,1 @@
---platform=linux/armv7 nginx:latest
+hello-world:latest
